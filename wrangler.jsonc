@@ -1,6 +1,6 @@
 {
   "compatibility_date": "2025-07-03",
-  "name": "redirect-group",
+  "name": "redirect",
   "assets": {
     "directory": "./",
     "serve": true
